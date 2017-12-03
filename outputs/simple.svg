@@ -1,0 +1,13 @@
+<svg width="800" height="600" viewBox="0.0 -2.0 5.0 4.0" xmlns="http://www.w3.org/2000/svg"         xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.0" y="-2.0" width="5.0" height="4.0" fill="white"/>
+<defs><symbol id="c">        <circle r="0.04"/></symbol></defs>
+<g stroke-width="0.02" opacity="0.7">
+<g fill="red" stroke="red">
+<line x1="0.0" y1="-1.0" x2="5.0" y2="0.0"/>
+<line x1="4.0" y1="-2.0" x2="1.0" y2="2.0"/>
+</g>
+<g fill="green" stroke="green">
+<use xlink:href="#c" x="2.826086956521739" y="-0.4347826086956522"/>
+</g>
+</g>
+</svg>
