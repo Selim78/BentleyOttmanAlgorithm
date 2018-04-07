@@ -1,6 +1,6 @@
 # Bentley Ottman Algorithm
 
-*First year Java project at Ensimag - Grenoble INP - 2016*
+*First year Python project at Ensimag - Grenoble INP - 2016*
 
 ![100_lines](https://i.imgur.com/eXdf4dr.png)
 
